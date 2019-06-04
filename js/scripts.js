@@ -80,4 +80,7 @@ $(function() {
   $(".word18").fadeToggle();
   $(".definition18").fadeToggle();
   });
+  $("button#java").click(function(){
+    alert("A programing language to add function to webpages");
+  });
 });
